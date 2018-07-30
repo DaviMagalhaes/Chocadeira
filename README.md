@@ -1,7 +1,7 @@
 # Chocadeira
 Controladora de Chocadeira sob NodeMCU - ESP12E e plataforma Arduino IDE.
 
-# Como funciona
+## Como funciona
 
 Verifica a temperatura, por meio do sensor DHT12, a fim de alterar o estado de um relé para aquecimento ou resfriamento.
 
